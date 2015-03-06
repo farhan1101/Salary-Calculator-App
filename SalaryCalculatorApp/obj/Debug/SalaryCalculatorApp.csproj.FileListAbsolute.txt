@@ -1,0 +1,9 @@
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csprojResolveAssemblyReference.cache
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculatorUI.resources
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+D:\Basis Class Tasks- Mohammad Farhan Anzum\My Projects\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
